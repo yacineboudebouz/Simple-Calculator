@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="buttoncolor">#212957</color>
+    <color name="buttoncolorclicked">#060919</color>
+    <color name="backgroundcolor1">#171c22</color>
+    <color name="backgroundcolor2">#212a35</color>
+    <color name="equal">#195057</color>
+    <color name="equalclicked">#103237</color>
+    <color name="red">#F44336</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white1">#807C7C</color>
+</resources>
